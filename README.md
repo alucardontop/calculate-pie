@@ -9,7 +9,7 @@ Input an integer when asked, results are displayed in console.
 
  Uses the Gottfried Leibniz formula to calculate Pi
  
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Leibniz_formula_for_π) - Leibniz formula for π
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Leibniz_formula_for_π)
 
 
 ## Instructions
