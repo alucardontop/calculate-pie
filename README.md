@@ -4,7 +4,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ## Summary
-This program will request the approximate number of calculations to run in calculating π. The final result will be displayed on the console. Does *not* use the Math class. Assumption is that the user inputs an int. 
+Requests a number of calculations to run in calculating π. Result displayed in console. This program does *not* use the Math class. User must input an int.
  
 
  Uses the Gottfried Leibniz formula for calculation of π:
@@ -15,8 +15,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Leibniz_formula_for_π) - Leib
 
 
 ## Instructions
-* Use the given make file.
-* Alternatively, compile: `javac Pi.java`
+* Run the make file.
+* Or compile it yourself: `javac Pi.java`
 * Run: `java Pi` 
 
 ### Inspiration
