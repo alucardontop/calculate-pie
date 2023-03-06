@@ -5,7 +5,7 @@
 
 ## Summary
 Input an integer when asked, results are displayed in console.
- 
+Does NOT use the Math class
 
  Uses the Gottfried Leibniz formula to calculate Pi
  
