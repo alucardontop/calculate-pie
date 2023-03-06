@@ -15,7 +15,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Leibniz_formula_for_π) - Leib
 
 
 ## Instructions
-* Run the make file.
+* Run the make file
 * Or compile it yourself: `javac Pi.java`
 * Run: `java Pi` 
 
