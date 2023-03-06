@@ -1,4 +1,4 @@
-# Calculate Pi using Leibniz's Formula
+# Calculate Pi
 ## Author: [alucardontop](https://github.com/alucardontop)
 ![language java](https://img.shields.io/badge/language-Java-blue.svg "Language Java")
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -19,3 +19,5 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Leibniz_formula_for_π) - Leib
 * Alternatively, compile: `javac Pi.java`
 * Run: `java Pi` 
 
+### Inspiration
+* Reinvogorated interest in math in general
